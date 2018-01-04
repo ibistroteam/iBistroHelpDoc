@@ -4,19 +4,13 @@ section: Order Management
 index: 2
 ---
 
-The account overview shows you all the overdue and upcoming transactions for a given account (client, institution, provider...).
+A quick walk through on placing an order to your vendor.
 
-This is a very useful screen to keep your cash-flow data updated, since it gives you a focused view and makes it easier to verify your data. Here is how to reach that screen:
+## Placing an Order in iBistro
 
-## Go to the Account Overview screen
+To do that click on the "**PLACE ORDER**" menu item on the left:
 
-To do that you can either click on a given transaction account's name like this:
-
-{% include animation.html file="click-account.gif" %}
-
-Or you can click on the Account Overview icon:
-
-{% include screenshot.html file="reaching-account-overview.png" %}
+{% include screenshot.html file="reaching-place-order.png" %}
 
 ## Select an Account
 
