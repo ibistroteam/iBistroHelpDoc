@@ -1,7 +1,7 @@
 ---
-title: How to place an order
+title: How to Place an Order
 section: Order Management
-index: 3
+index: 2
 ---
 
 The account overview shows you all the overdue and upcoming transactions for a given account (client, institution, provider...).
